@@ -1,2 +1,2 @@
 # DrinkMenu
-drink menu
+drink menu read edit only
